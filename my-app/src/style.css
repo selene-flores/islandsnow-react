@@ -2,11 +2,22 @@ i {
   color: black;
 }
 
-footer {
-  background-color: #292929;
-  color: white;
-}
-
 h1 {
   font-size: inherit;
+}
+
+#columnMenu {
+  padding-top: 5px;
+}
+
+#footerMenu {
+  background-color: #292929;
+}
+
+#email {
+  height: 24px;
+}
+
+#hr {
+  height: 2px;
 }
